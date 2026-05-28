@@ -2,10 +2,15 @@
   "scanSettings": {
     "configMode": "LOCAL",
     "versioning": {
-       "java": "17.0.19+10"
+      "java": "17.0.19+10"
+    }
+  },
+  "scanSettingsSAST": {
+    "enableScan": false
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
     }
   }
 }
-
-
-
